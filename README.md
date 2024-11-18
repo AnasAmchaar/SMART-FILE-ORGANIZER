@@ -64,14 +64,12 @@ Feel free to fork this project and submit pull requests with improvements. Some 
 - Implement undo functionality
 - Add GUI interface
 
-## License
 
-[Choose an appropriate license for your project]
 
 ## Author
 
-[Your Name]
+ANAS AMCHAAR 
 
 ## Acknowledgments
 
-- List any inspirations or resources you used
+DEAR FRIEND YOUSSEF HACHHOUCH
